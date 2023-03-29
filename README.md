@@ -57,7 +57,7 @@
             width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALaravel.svg&psig=AOvVaw2N3DaS2idbt35VjBIux980&ust=1680167036918000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNi6z4zkgP4CFQAAAAAdAAAAABAH"
+            src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"
             alt="laravel" width="40" height="40" /> </a>
 
 </p>
