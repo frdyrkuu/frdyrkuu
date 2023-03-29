@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=frdyrkuu" alt="frdyrkuu" /></a> </p>
 
-<p align="center"><img src="https://s2.gifyu.com/images/NUX_Octodex.gif" alt="cat"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTViMjAxMTJiYjlkOWNiOWIzMjg2OGYyOWQ0Yzg2YWI3MmMxYTFkMCZjdD1n/oF9W5eUlKaUXzgta3f/giphy.gif" alt="cat"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
