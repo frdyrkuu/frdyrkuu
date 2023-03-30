@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm 𝙵𝚛𝚎𝚍𝚎𝚛𝚒𝚌𝚔 𝚂𝚘𝚌𝚘𝚛𝚒𝚗</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h1 align="center">🎀 ฅ(•ㅅ•❀)ฅ 𝐻𝑒𝓌𝑜𝑜 𝒽𝑜𝑜𝓂𝒶𝓃 𝓂𝓎 𝓃𝒶𝓂𝑒 𝒾𝓈 🎀</h1>
+<h1 align="center">🎀  🍰 𝐹𝓇𝑒𝒹𝑒𝓇𝒾𝒸𝓀 𝒢. 𝒮𝑜𝒸𝑜𝓇𝒾𝓃 🎀  🍰</h1>
+<h3 align="center">𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frdyrkuu&label=Profile%20views&color=0e75b6&style=flat"
         alt="frdyrkuu"/></p>
