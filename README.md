@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frederick Socorin</h1>
-<h3 align="center">Computer Engineer | Fullstack Developer @ xDNA Interactive</h3>
+<img src="https://raw.githubusercontent.com/frdyrkuu/frdyrkuu/refs/heads/main/header.png" alt="header">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frdyrkuu&label=Profile%20views&color=0e75b6&style=flat" alt="frdyrkuu" /> </p>
 
@@ -29,3 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frdyrkuu&" alt="frdyrkuu" /></p>
 
                                                                                                                                                                      
+
