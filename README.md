@@ -34,18 +34,6 @@
 
 ---
 
-## 📂 Pinned Projects (Highlights)
-
-| Project | Description |
-|--------|-------------|
-| **Burger-Dungeon-Laravel** | Web application built in Laravel for menu viewing and order system |
-| **Ampere-Website** | Static / dynamic website |
-| **Krista-Mae-Portfolio** | Personal portfolio website |
-
-*(More projects are listed on my repositories page — feel free to explore!)*
-
----
-
 ## ✨ What I’m Working On
 
 - Mastering **Next.js** (app router, API routes, and deployment on Vercel)  
@@ -76,6 +64,7 @@ I’m always open to collaborations, mentorship, and discussions around coding, 
 
 
                                                                                                                                                                      
+
 
 
 
