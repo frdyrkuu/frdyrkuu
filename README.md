@@ -1,7 +1,7 @@
 
 <!-- PROFILE BANNER (optional) -->
 <p align="center">
-  <img src="https://your-image-url-here/banner.png](https://raw.githubusercontent.com/frdyrkuu/frdyrkuu/refs/heads/main/header.png" alt="Banner Image" width="100%" />
+  <img src="https://raw.githubusercontent.com/frdyrkuu/frdyrkuu/refs/heads/main/header.png" alt="Banner Image" width="100%" />
 </p>
 
 # Hi there 👋 I’m **Frederick / frdyrkuu**
@@ -76,6 +76,7 @@ I’m always open to collaborations, mentorship, and discussions around coding, 
 
 
                                                                                                                                                                      
+
 
 
 
