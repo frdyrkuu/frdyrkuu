@@ -10,6 +10,8 @@
 
 🔭 I’m passionate about building clean, efficient web applications, improving user experiences, and contributing to open source.
 
+<a href="https://www.frdyrkuu.dev" target="_blank">frdyrkuu.dev</a>
+
 ---
 
 ## 🧭 About Me
@@ -64,6 +66,7 @@ I’m always open to collaborations, mentorship, and discussions around coding, 
 
 
                                                                                                                                                                      
+
 
 
 
