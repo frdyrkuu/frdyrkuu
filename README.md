@@ -38,11 +38,11 @@
 ## 📊 GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frdyrkuu&layout=compact&theme=nord)](https://github.com/frdyrkuu)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frdyrkuu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
                                                                                                                                                                      
+
 
 
 
