@@ -1,53 +1,137 @@
+# Frederick
 
-<!-- PROFILE BANNER (optional) -->
+Software developer based in the Philippines.
+
+I mostly build web applications with Laravel, React, and Next.js. Most repositories here are personal projects, internal tools, prototypes, or experiments that I build to learn something new or solve a problem.
+
+---
+
+## Tech Stack
+
+### Languages
+
+- PHP
+- TypeScript
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Backend
+
+- Laravel
+- Node.js
+- Express
+- REST APIs
+
+### Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+- Bootstrap
+- Vite
+- jQuery
+
+### Database
+
+- MySQL
+- PostgreSQL
+- Prisma ORM
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Composer
+- npm
+- Linux
+- VS Code
+
+---
+
+## Projects
+
+### Burger Dungeon
+
+Restaurant ordering platform built with Laravel.
+
+**Stack**
+- Laravel
+- MySQL
+- Bootstrap
+- Blade
+
+---
+
+### Mamitas
+
+Restaurant management system with order management and administration features.
+
+**Stack**
+- Laravel
+- MySQL
+- Bootstrap
+
+---
+
+### SoftCon 2025
+
+Conference website and management platform.
+
+**Stack**
+- Laravel
+- Tailwind CSS
+- JavaScript
+
+---
+
+### AI Feeder
+
+Experimenting with AI integrations and modern TypeScript tooling.
+
+---
+
+## What I'm Working On
+
+- Improving Laravel architecture
+- Building better APIs
+- Learning more about React and Next.js
+- Exploring AI integrations where they actually make sense
+
+---
+
+## GitHub
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frdyrkuu/frdyrkuu/refs/heads/main/github-header-banner.png" alt="Banner Image" width="100%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=frdyrkuu&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frdyrkuu&layout=compact&hide_border=true" />
 </p>
 
-# Hi there 👋 I’m **Frederick / frdyrkuu**
-
-> “Always be learning, always be building.”  
-
-🔭 I’m passionate about building clean, efficient web applications, improving user experiences, and contributing to open source.
-
-<a href="https://www.frdyrkuu.dev" target="_blank">frdyrkuu.dev</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=frdyrkuu&hide_border=true" />
+</p>
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Current Interests
 
-| Category        | Tools & Technologies                            |
-|-----------------|---------------------------------------------------|
-| Backend / Server| PHP, Laravel, Node.js                             |
-| Frontend        | React, Next.js, Tailwind CSS, HTML, JavaScript    |
-| Database        | MySQL                                             |
-| Dev & Tools     | Git, Composer, NPM, Linux / Bash, VS Code         |
-| Others / APIs   | REST APIs, AJAX, JSON, Webhooks                   |
-
----
-
-## ✨ What I’m Working On
-
-- **Next.js** (app router, API routes, and deployment on Vercel)  
-- Building reusable **React components** with Tailwind  
-- Experimenting with **serverless functions** & database integrations  
-- Growing my full-stack workflow with **Laravel + React** hybrids  
+- Laravel
+- Next.js
+- TypeScript
+- API Design
+- Database Optimization
+- Authentication
+- Server Infrastructure
+- Self-hosting
 
 ---
 
-## 📊 GitHub Stats
+## Repository Philosophy
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frdyrkuu&layout=compact&theme=nord)](https://github.com/frdyrkuu)  
+If a repository is public, it's because there's something worth sharing—whether it's a finished project, an experiment, or an idea in progress.
 
+---
 
-
-                                                                                                                                                                     
-
-
-
-
-
-
-
-
-
+Thanks for stopping by.
